@@ -1,38 +1,3 @@
-<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
-<!--<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Welcome%20💖&width=1000&height=200" />
-  <!--🖼️girl-->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJidmYxMnh0N2tic2JiNnVtcjB4YWdpNmMzeWhoNW8yMXE2cHA3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v2WuhMBzb3h5e/giphy.gif" height="200" width="500">
-</p>
-
-
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
-<p align="center">
-<a href="https://youtu.be/th8H34qOk30?si=bJTORSUOewYDXZzb" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nf32xltamfjahepwbw4ggxjr8&cover_image=true&theme=karaoke&show_offline=false&background_color=da15f4&interchange=false" alt="spotify-github-profile">
-</a>
-</p>
-
-
-
-<p align="center">
-<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-
-
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
-
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
-
 <div align="center">
   
 ```diff
@@ -60,6 +25,39 @@
 ```
   
 </div>
+
+
+<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Welcome%20💖&width=1000&height=200" />
+</p>
+
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://youtu.be/th8H34qOk30?si=bJTORSUOewYDXZzb" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nf32xltamfjahepwbw4ggxjr8&cover_image=true&theme=karaoke&show_offline=false&background_color=da15f4&interchange=false" alt="spotify-github-profile">
+</a>
+</p>
+
+
+
+<p align="center">
+<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<p align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
+
+
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+
+<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
+
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
