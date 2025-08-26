@@ -1,12 +1,11 @@
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
-<p align="center">
+<!--<p align="center">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Welcome%20💖&width=1000&height=200" />
   <!--🖼️girl-->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJidmYxMnh0N2tic2JiNnVtcjB4YWdpNmMzeWhoNW8yMXE2cHA3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v2WuhMBzb3h5e/giphy.gif" height="250" width="500">
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJidmYxMnh0N2tic2JiNnVtcjB4YWdpNmMzeWhoNW8yMXE2cHA3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v2WuhMBzb3h5e/giphy.gif" height="200" width="500">
 </p>
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
