@@ -1,11 +1,13 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Welcome%20💖&width=1000&height=200" />
+  <!--🖼️girl-->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJidmYxMnh0N2tic2JiNnVtcjB4YWdpNmMzeWhoNW8yMXE2cHA3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v2WuhMBzb3h5e/giphy.gif" height="250" width="500">
 </p>
 
-<!--🖼️girl-->
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lqeWtxbmxvZTJ4dDk5ZHZiZ2thc3AyamMxeXpheHlueHJueTN6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6UJjUEg1ReqjMIAlQ/giphy.gif" height="340" width="370">
+
+
+
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
