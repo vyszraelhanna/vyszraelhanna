@@ -30,7 +30,6 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
@@ -77,44 +76,36 @@
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
-<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/yogeshwaran01/github-stats-terminal-style -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/vyszraelhanna/github-stats-terminal-style/master/github_stats.svg">
-
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=vyszraelhanna&show_icons=true&theme=radical&border_color=F535AA">
 
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200">
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=vyszraelhanna&theme=radical&border=F535AA">
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
+<a src="https://github-readme-stats.vercel.app/api/top-langs?username=vyszraelhanna&theme=radical&layout=compact&border_color=F535AA&langs_count=6">
 
-<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko&border_color=599200">
+
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=vyszraelhanna&theme=radical&layout=compact&border_color=F535AA&langs_count=6">
   
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://github.com/trinib?tab=stars&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=FF10F0&labelColor=F535AA&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/vyszraelhanna"/></a>
 <a href="https://github.com/trinib?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/trinib?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/vyszraelhanna?color=FF10F0&labelColor=F535AA&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=vyszraelhanna&color=FF10F0&style=for-the-badge">
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=vyszraelhanna" width="100%">
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
 
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <h4 align="right">
