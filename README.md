@@ -26,8 +26,6 @@
 
   
 </div>
-
-
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Welcome%20💖&" />
@@ -35,15 +33,16 @@
 -->
 
 <p align="center">
+ <br></br> 
+ <br></br> 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
-
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+</p>
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render 
 <p align="center">
