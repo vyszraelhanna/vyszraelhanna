@@ -5,14 +5,17 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJidmYxMnh0N2tic2JiNnVtcjB4YWdpNmMzeWhoNW8yMXE2cHA3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v2WuhMBzb3h5e/giphy.gif" height="250" width="500">
 </p>
 
-
-
-
-
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://youtu.be/th8H34qOk30?si=bJTORSUOewYDXZzb" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nf32xltamfjahepwbw4ggxjr8&cover_image=true&theme=karaoke&show_offline=false&background_color=da15f4&interchange=false" alt="spotify-github-profile">
+</a>
+</p>
+
+
 
 <p align="center">
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
