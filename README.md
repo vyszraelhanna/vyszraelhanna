@@ -1,5 +1,8 @@
+
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <div align="center">
-  
+<a href="https://youtu.be/th8H34qOk30?si=bJTORSUOewYDXZzb" target="_blank"> <img src="https://spotify-github profile.kittinanx.com/api/view?uid=nf32xltamfjahepwbw4ggxjr8&cover_image=false&theme=karaoke&show_offline=false&background_color=e605b5&interchange=false" alt="spotify-github-profile" width=1000 height=250>
+</a>  
 ```diff
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣦⣴⣶⣶⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -32,14 +35,6 @@
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Welcome%20💖&" />
 </p>
 -->
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
-<p align="center">
-<a href="https://youtu.be/th8H34qOk30?si=bJTORSUOewYDXZzb" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nf32xltamfjahepwbw4ggxjr8&cover_image=false&theme=karaoke&show_offline=false&background_color=e605b5&interchange=false" alt="spotify-github-profile" width=1000 height=200>
-</a>
-</p>
-
-
 
 <p align="center">
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
