@@ -19,14 +19,12 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="50" width="50">
 
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
-
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
+<img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Open%20Source%💖&width=950&height=450">
 
 <!--📏LINE-->
 <p align="center">
@@ -73,14 +71,11 @@
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
+![Image](https://github.com/user-attachments/assets/06a6c8df-a122-4a01-a6ae-07caf1688a05)
 
 <!--🖼️OCTOCAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
-
-<!--🌯GITHUBWRAPPED / 🌐WEBSITE: https://github.com/neat-run/wrapped -->
-<!--<p align="center"> -->
-<!--<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a> -->
 
 <!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/yogeshwaran01/github-stats-terminal-style -->
 <p align="center">
