@@ -62,8 +62,7 @@
 
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-![Image](https://github.com/user-attachments/assets/06a6c8df-a122-4a01-a6ae-07caf1688a05)
+<img src="https://github.com/user-attachments/assets/8c10c55a-1cb1-4fac-8d99-66057c1f3616"
 
 <!--🖼️OCTOCAT-->
 <p align="center">
@@ -101,7 +100,7 @@
 
 <!--🤔INTERESTTITLE-->
 <p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
+<img src="https://github.com/user-attachments/assets/417869ac-a4ef-4460-90b4-70013275fb13">
 
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
