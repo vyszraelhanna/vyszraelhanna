@@ -24,7 +24,7 @@
 
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
-<img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Open%20Source%💖&width=950&height=450">
+<img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Open%20Source%💖&width=1000&height=500">
 
 <!--📏LINE-->
 <p align="center">
