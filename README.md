@@ -31,7 +31,7 @@
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Welcome%20💖&" />
 </p>
 -->
-Sometimes my thinking outpaces my speech, so even though I understand something clearly, my explanations come out short or disjointed. I’m working on structuring my thoughts into concise, step-by-step explanations
+
 <p align="center">
  <br></br> 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
