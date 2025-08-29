@@ -67,10 +67,11 @@
 
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
 <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=vyszraelhanna&theme=radical&border=F535AA">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=vyszraelhanna&theme=radical&layout=compact&border_color=F535AA&langs_count=6">
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=vyszraelhanna&theme=radical&layout=compact&border_color=F535AA&langs_count=6">
+
+
   
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
