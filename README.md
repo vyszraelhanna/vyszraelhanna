@@ -5,7 +5,7 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nf32xltamfjahepwbw4ggxjr8&cover_image=false&theme=karaoke&show_offline=false&background_color=e605b5&interchange=false" alt="spotify-github-profile" width=1000 height=250>
 </a>  ⠀-->⠀
 
-<table style="width:100%; height:400px;">
+<table>
   <tr>
     <td valign="top" style="width:70%;">
       <div>
