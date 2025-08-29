@@ -3,7 +3,13 @@
 <!-- <div align="center">
 <a href="https://youtu.be/th8H34qOk30?si=bJTORSUOewYDXZzb" target="_blank"> 
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nf32xltamfjahepwbw4ggxjr8&cover_image=false&theme=karaoke&show_offline=false&background_color=e605b5&interchange=false" alt="spotify-github-profile" width=1000 height=250>
-</a>  ⠀-->⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</a>  ⠀-->⠀
+
+<table>
+  <tr>
+    <td valign="top">
+      <div>
+        <pre>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣦⣴⣶⣶⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣀⣀⣀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -24,8 +30,22 @@
 ⣿⣷⡀⠀⣷⠀⠀⠀⣼⣦⣴⣿⠏⠙⠻⠿⣷⡿⠷⣶⣶⡾⠿⠿⠷⢶⣶⣦⣤⣾⣿⣷⣿⣿⠿⠿⠛⠛⠙⠻⣿⣤⣾⣇⠀⢀⣸⣇⣀⣼⣿⠃
 ⠘⢿⣿⣾⣿⣷⣴⣾⡿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠻⠿⠿⠿⠟⠛⠛⠁⠀
 
-  
+ 
+   </pre>
+  </div>
+</td>
 </div>
+ <td valign="top">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
+</td>
+  </tr>
+</table>
+
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Welcome%20💖&" />
