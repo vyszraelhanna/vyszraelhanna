@@ -33,18 +33,6 @@
  
    </pre>
   </div>
-<td style="width:30%; vertical-align:top;">
-      <div style="display:flex; flex-direction:column; justify-content:flex-end; height:100%; align-items:flex-end; gap:5px;">
-        <div>
-          <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
-          <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
-          <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
-          <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
-          <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
-          <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
-        </div>
-      </div>
-    </td>
   </tr>
 </table>
 
