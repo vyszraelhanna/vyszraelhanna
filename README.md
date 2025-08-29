@@ -40,9 +40,7 @@
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=%20Welcome%20💖&" />
 </p>
 -->
-
 <p align="center">
- <br></br> 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-whistling-gif.gif" height="80" width="80">
