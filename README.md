@@ -58,21 +58,24 @@
 <img src="https://github.com/user-attachments/assets/8c10c55a-1cb1-4fac-8d99-66057c1f3616"
 
 <!--🖼️OCTOCAT-->
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=vyszraelhanna&show_icons=true&theme=radical&border_color=F535AA">
+    </td>
+    <td>
+     <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=vyszraelhanna&theme=radical&border=F535AA">
+    </td>
+  </tr>
+</table>
+<!-- Top Languages centralizado -->
 <p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=vyszraelhanna&theme=radical&layout=compact&border_color=F535AA&langs_count=6">
+</p>
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=vyszraelhanna&show_icons=true&theme=radical&border_color=F535AA">
-
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=vyszraelhanna&theme=radical&border=F535AA">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=vyszraelhanna&theme=radical&layout=compact&border_color=F535AA&langs_count=6">
-
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-
-
-  
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://github.com/trinib?tab=stars&sort=stargazers">
