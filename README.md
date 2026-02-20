@@ -2,7 +2,7 @@
 
 ### Smart contract auditing • DeFi security • Exploit analysis
 
-### Audit studies & reports ->
+### Audit studies & reports ->  repository: smart-contract-audit-lab
 
 
 
