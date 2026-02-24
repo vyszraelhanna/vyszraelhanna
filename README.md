@@ -2,7 +2,7 @@
 
 ### Smart contract auditing • DeFi security • Exploit analysis
 
-### Audit studies & reports ->  [Repository](https://github.com/vyszraelhanna/smart-contract-audit-ethernaut.git)  smart-contract-audit-ethernaut
+### Audit studies & reports ->  [smart-contract-audit-ethernaut](https://github.com/vyszraelhanna/smart-contract-audit-ethernaut.git) 
 
 
 
